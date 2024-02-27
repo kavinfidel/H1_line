@@ -12,5 +12,4 @@ Temperature Calculation: The initial step involves determining the temperature o
 
 Velocity Calibration: Once the temperatures are established, we proceed to calibrate velocities with respect to the local standard of rest. This calibration is essential for accurate and meaningful interpretation of the data.
 
-Data Visualization: Finally, we visualize and analyze the calibrated temperatures against the velocities, unraveling the intricate dance of celestial bodies along the galactic equator.
-
+Data Visualization: Finally, we visualize and analyze the calibrated temperatures against the velocities, 
