@@ -8,8 +8,10 @@ The H1_line experiment employs a horn antenna due to its superior performance, e
 when compared to parabolic dish antennas. Connected to Low Noise Amplifiers and a Bandpass Filter,
 the horn antenna facilitates precise data collection and transmission.
 
+The following are the procedures followed: 
 Temperature Calculation: The initial step involves determining the temperature of celestial bodies by plotting power against frequency. This crucial data forms the foundation for our further analyses.
 
 Velocity Calibration: Once the temperatures are established, we proceed to calibrate velocities with respect to the local standard of rest. This calibration is essential for accurate and meaningful interpretation of the data.
 
 Data Visualization: Finally, we visualize and analyze the calibrated temperatures against the velocities, 
+
