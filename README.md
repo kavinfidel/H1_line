@@ -25,6 +25,6 @@ The H1 Line experiment utilizes a horn antenna for its superior performance, par
 The repository includes:
 
 - **CSV Datasets:** Recorded along the galactic center with a 20-unit difference.
-- **Jupyter Notebook (IPYNB):** Contains visualizations.
+- **Jupyter Notebook (IPYNB):** Contains analysis and visualizations.
 - **PDF Report:** Provides detailed analysis.
 
